@@ -1,0 +1,40 @@
+.row {
+  line-height: 1.75;
+}
+
+h1, h2, h3, h4, h5, h6, p, a, .badge {
+  font-family: "open-sans",sans-serif;
+  color: #414145;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
+
+h1, h2, h3, h4 {
+  padding-bottom: 5px;
+}
+
+p {
+  padding-bottom: 10px;
+}
+
+a {
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.small {
+  font-size: 0.8em;
+}
+
+.green {
+  color: #13A89D;
+}
+
+.grey {
+  color: #949599;
+}
+
